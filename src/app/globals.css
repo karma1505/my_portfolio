@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+html, body {
+  overflow: hidden;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("/wpportfolio.webp") no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Override react-draggable cursor */
+.react-draggable-dragging {
+  cursor: default !important;
+}
+
+.react-draggable {
+  cursor: default !important;
+}
