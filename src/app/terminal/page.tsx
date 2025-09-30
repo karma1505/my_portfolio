@@ -93,6 +93,7 @@ export default function Terminal() {
       "PitStop — Automotive software suite (React Native + Spring Boot)",
       "Dilli House — Resort landing page (Next.js + Framer Motion)",
       "JustHoney — Ecommerce site (Next.js + Razorpay)",
+      "The Journal — Personal tech blog (Next.js + FastAPI + Supabase)",
       "Portfolio — Personal website (Next.js + TailwindCSS + Supabase)",
     ],
     "karma --links": [

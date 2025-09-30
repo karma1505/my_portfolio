@@ -48,6 +48,20 @@ export default function Notes() {
       tags: ["NextJS", "ReactJS", "Django", "PostgreSQL"],
     },
     {
+      title: "The Journal",
+      desc: `A personal tech journal where I write about my development journey, ideas, and insights. A space to share knowledge and connect with the developer community.`,
+      highlights: [
+        " Personal tech blog and journal",
+        " Clean, minimalist design",
+        " Built with Next.js frontend",
+        " FastAPI backend for content management",
+        " Supabase for database and bucket storage",
+      ],
+      img: "/icons/journal.png",
+      link: "https://journal-frontend-swart.vercel.app/",
+      tags: ["Next.js", "FastAPI", "Supabase"],
+    },
+    {
       title: "Portfolio",
       desc: `The place to know who I am and what I do. Always changing cause I believe in,
       'Even if it works, it can always be better'`,
