@@ -14,6 +14,7 @@ export default function Dock() {
         { name: "Calendar", src: "/icons/calendar.png", alt: "Calendar", path: "/calendar", windowId: "calendar" },
         { name: "Notes", src: "/icons/notes.png", alt: "Notes", path: "/notes", windowId: "notes" }, 
         { name: "Terminal", src: "/icons/terminal.jpg", alt: "Terminal", path: "/terminal", windowId: "terminal" },
+        { name: "GitHub", src: "/icons/github.webp", alt: "GitHub", path: "/github", windowId: "github" },
         // { name: "Settings", src: "/icons/settings.png", alt: "Settings" },
         { name: "Trash", src: "/icons/trash.png", alt: "Trash", path: "/trash", windowId: "trash" }, 
       ];
