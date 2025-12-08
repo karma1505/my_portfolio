@@ -58,7 +58,7 @@ export default function Notes() {
         " Supabase for database and bucket storage",
       ],
       img: "/icons/journal.png",
-      link: "https://journal-frontend-swart.vercel.app/",
+      link: "https://journal.karmanya.dev/",
       tags: ["Next.js", "FastAPI", "Supabase"],
     },
     {
