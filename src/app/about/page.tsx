@@ -88,7 +88,7 @@ export default function About() {
           </a>
 
           <a
-            href="mailto:karmanyasingh8@gmail.com"
+            href="mailto:contact@karmanya.dev"
             className="group flex items-center justify-center gap-2 rounded-lg border bg-gray-50 hover:bg-gray-100 transition p-3 text-sm font-medium"
             aria-label="Email"
           >
