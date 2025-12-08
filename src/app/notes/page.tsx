@@ -71,7 +71,7 @@ export default function Notes() {
         " Functional Terminal",
       ],
       img: "/icons/portfolio.png",
-      link: "https://karma-portfolio.com/",
+      link: "https://karmanya.dev/",
       tags: ["Next.js", "TailwindCSS", "Supabase"],
     }
   ];
